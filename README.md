@@ -1,2 +1,2 @@
-# ARIMA-R-Stock-Prediction
+# ARIMA Model for Stock-Prediction
 
